@@ -1,0 +1,101 @@
+"id"|"user"|"name"|"homeLocation"|"worksFor"|"total"
+"431588"|"dcrankshaw"|"Dan Crankshaw"|"Berkeley, CA"|"@ucbrise"|31
+"3925641"|"keypointt"|"Xin Ren"|""|""|32
+"545478"|"lianhuiwang"|"Lianhui Wang"|"China"|""|32
+"20197098"|"petermaxlee"|""|""|""|32
+"4058918"|"jinxing64"|"jin xing"|"Beijing, China"|""|34
+"1387718"|"yjshen"|"Yijie Shen"|"Beijing, China"|"ACS, ICT, CAS"|34
+"98311"|"koeninger"|"Cody Koeninger"|"Austin, TX"|""|35
+"1168928"|"xiajunluan"|"Andrew xia"|"Shanghai, China"|"Intel"|35
+"3230057"|"tejasapatil"|"Tejas Patil"|"CA"|"@facebook , @apache"|36
+"30604243"|"jose-torres"|"Jose Torres"|""|""|37
+"228998"|"andyk"|"Andy Konwinski"|"Berkeley CA"|"UC Berkeley"|37
+"2595532"|"clockfly"|"Sean Zhong"|"Shanghai"|""|38
+"232889"|"alig"|"Ali Ghodsi"|""|""|38
+"104618"|"colorant"|"Raymond Liu"|""|""|39
+"11082368"|"actuaryzhang"|"Wayne Zhang"|""|"@uber"|40
+"242468"|"nongli"|"Nong Li"|""|"Cerebro Data"|40
+"62313"|"jaceklaskowski"|"Jacek Laskowski"|"Warsaw, Poland"|"Spark, Kafka, Kafka Streams Consultant, Developer and Technical Instructor"|41
+"235188"|"tedyu"|""|""|""|42
+"6198920"|"tmyklebu"|"Tor Myklebust"|""|""|43
+"512364"|"falaki"|"Hossein Falaki"|"San Francisco Bay Area"|"Databricks Inc."|46
+"1378755"|"techaddict"|"Sandeep Singh"|"Bangalore, India"|"Amazon"|46
+"2528327"|"sun-rui"|""|""|""|47
+"164491"|"zjffdu"|"Jeff Zhang"|"Shanghai, China"|"Hortonworks"|48
+"7275795"|"sethah"|"Seth Hendrickson"|"San Francisco, CA"|"Cloudera"|48
+"24747"|"ijuma"|"Ismael Juma"|"San Francisco Bay Area, CA"|"Confluent"|48
+"1097932"|"gengliangwang"|"Gengliang Wang"|""|""|49
+"232966"|"mosharaf"|"Mosharaf Chowdhury"|""|"University of Michigan"|50
+"4563792"|"tgravescs"|"Tom Graves"|""|"@Oath"|51
+"14225158"|"dilipbiswal"|"Dilip Biswal"|"San Jose, CA"|"IBM Spark Technology Center"|52
+"1554276"|"zero323"|"Maciej"|""|""|52
+"3220351"|"rezazadeh"|"Reza Zadeh"|"Palo Alto"|"Stanford University"|52
+"71240"|"squito"|"Imran Rashid"|""|""|53
+"357170"|"ash211"|"Andrew Ash"|"Palo Alto, CA"|""|54
+"5276001"|"WangTaoTheTonic"|"Tao Wang"|"Hangzhou, China"|"Huawei Technologies Co., Ltd."|54
+"15843379"|"lw-lin"|"Liwei Lin"|"Beijing, China"|"Tencent"|56
+"1039369"|"nchammas"|"Nicholas Chammas"|"New England"|""|59
+"1134574"|"dbtsai"|"DB Tsai"|"Cupertino"|"Apple"|60
+"1523515"|"yu-iskw"|"Yu Ishikawa"|"San Francisco, CA"|""|60
+"5033592"|"wangmiao1981"|"Miao Wang"|"San Francisco, CA"|"Alibaba Inc"|62
+"1591700"|"mridulm"|"Mridul Muralidharan"|"San Francisco, CA"|"Hortonworks"|63
+"1867024"|"MechCoder"|""|"Mountain View"|"Google Brain"|63
+"1036807"|"MLnick"|"Nick Pentreath"|"Cape Town, South Africa"|"IBM @CODAIT"|64
+"10878553"|"wzhfy"|"Zhenhua Wang"|"Hangzhou, China"|"Huawei Technologies, Inc"|64
+"2637239"|"yinxusen"|"yinxusen"|"LA"|""|65
+"166454"|"sameeragarwal"|"Sameer Agarwal"|"Berkeley, CA"|"Facebook Inc."|67
+"678008"|"CodingCat"|"Nan Zhu"|"Seattle"|"Uber"|68
+"424186"|"markhamstra"|"Mark Hamstra"|"San Francisco, CA"|""|68
+"15294"|"jey"|"Jey Kottalam"|"Berkeley, California"|"UC Berkeley"|69
+"344906"|"woggle"|"Charles Reiss"|"Virginia"|""|71
+"403133"|"dennybritz"|"Denny Britz"|"Mountain View, CA"|"Google"|71
+"4784782"|"jiangxb1987"|"Jiang Xingbo"|"Xiamen, Fujian, PR. China"|"DataBricks"|72
+"302879"|"witgo"|"Guoqiang Li"|"hangzhou"|"Huawei Technologies Co., Ltd."|75
+"4754931"|"karenfeng"|"Karen Feng"|""|""|77
+"5399861"|"wangyum"|"Yuming Wang"|"Shanghai, China"|"@eBay"|80
+"40902"|"davies"|"Davies Liu"|"San Francisco, CA"|"@juicedata"|80
+"14922"|"ericl"|"Eric Liang"|""|""|83
+"7981698"|"hhbyyh"|"Yuhao Yang"|"Sunnyvale, CA, U.S."|""|85
+"19235986"|"WeichenXu123"|"WeichenXu"|"San Francisco"|"@databricks"|86
+"4534389"|"BryanCutler"|"Bryan Cutler"|"San Francisco"|"IBM Spark Technology Center"|87
+"7018048"|"scwf"|"Fei Wang"|"HangZhou"|"HW"|92
+"654855"|"sryza"|"Sandy Ryza"|"San Francisco"|"@remix"|92
+"8821783"|"mgaido91"|"Marco Gaido"|""|""|94
+"3078910"|"adrian-wang"|"Daoyuan Wang"|"Shanghai"|"Alibaba Inc"|94
+"6401"|"stephenh"|"Stephen Haberman"|""|""|99
+"1315079"|"kiszk"|"Kazuaki Ishizaki"|"Tokyo, Japan"|"IBM Research - Tokyo"|102
+"7322292"|"zhengruifeng"|"Ruifeng Zheng"|"Beijing"|""|103
+"5243515"|"brkyvz"|"Burak Yavuz"|""|""|111
+"1108612"|"kayousterhout"|"Kay Ousterhout"|""|""|117
+"2367031"|"chenghao-intel"|"Cheng Hao"|"SH"|"Intel"|118
+"9616802"|"hvanhovell"|"Herman van Hovell"|"Netherlands/US"|"Databricks"|125
+"692303"|"maropu"|"Takeshi Yamamuro"|"Tokyo/Japan"|""|127
+"2133137"|"andrewor14"|""|""|""|131
+"506656"|"ueshin"|"Takuya UESHIN"|"Kawasaki, Japan"|""|135
+"4736016"|"sarutak"|"Kousuke Saruta"|"Japan"|"NTT DATA"|143
+"59893"|"holdenk"|"Holden Karau"|"San Francisco, CA, USA"|"Developer Advocate @google"|151
+"2350086"|"jegonzal"|"Joey"|"Berkeley, CA"|"UC Berkeley"|158
+"8969467"|"felixcheung"|"Felix Cheung"|""|""|161
+"1400247"|"aarondav"|"Aaron Davidson"|""|""|161
+"5084283"|"jkbradley"|"Joseph Bradley"|""|""|169
+"992952"|"ScrapCodes"|"Prashant Sharma"|"Hyderabad"|"IBM"|177
+"143893"|"shivaram"|"Shivaram Venkataraman"|""|""|192
+"850797"|"jerryshao"|"Saisai Shao"|"Shanghai"|"Hortonworks"|194
+"408432"|"ankurdave"|"Ankur Dave"|"Berkeley, CA"|"UC Berkeley AMPLab"|241
+"2072857"|"yhuai"|"Yin Huai"|""|"Databricks"|258
+"527"|"marmbrus"|"Michael Armbrust"|"Berkeley, CA"|"UC Berkeley"|280
+"1962026"|"yanboliang"|"Yanbo Liang"|"Santa Clara, CA"|"Hortonworks"|289
+"9700541"|"dongjoon-hyun"|"Dongjoon Hyun"|"Sunnyvale"|"@hortonworks"|299
+"829644"|"mengxr"|"Xiangrui Meng"|""|"Databricks"|329
+"1694083"|"vanzin"|"Marcelo Vanzin"|"San Francisco, CA"|""|332
+"68855"|"viirya"|"Liang-Chi Hsieh"|"Taipei, Taiwan"|"Datavisor"|347
+"6477701"|"HyukjinKwon"|"Hyukjin Kwon"|""|"@hortonworks"|352
+"11567269"|"gatorsmile"|"Xiao Li"|"San Francisco, CA"|"Databricks Inc."|372
+"230655"|"liancheng"|"Cheng Lian"|"San Francisco, CA, US"|"@databricks"|375
+"663212"|"tdas"|"Tathagata Das"|"San Francisco"|"Databricks.com"|473
+"1000778"|"zsxwing"|"Shixiong Zhu"|"San Francisco"|"Databricks, Inc."|474
+"50748"|"JoshRosen"|"Josh Rosen"|"Berkeley, CA"|"@databricks"|502
+"3182036"|"cloud-fan"|"Wenchen Fan"|"Hangzhou, China"|"Databricks"|576
+"320616"|"pwendell"|"Patrick Wendell"|""|""|654
+"228859"|"mateiz"|"Matei Zaharia"|"San Francisco, CA"|"Databricks Inc."|830
+"323388"|"rxin"|"Reynold Xin"|"San Francisco"|"Databricks"|1152

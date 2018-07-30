@@ -1,0 +1,101 @@
+id,user,name,homeLocation,location_formatted,lat,lng,worksFor,total
+431588,dcrankshaw,Dan Crankshaw,"Berkeley, California","Berkeley, CA, USA",37.8715926,-122.272747,UC Berkeley,31
+3925641,keypointt,Xin Ren,,,,,,32
+545478,lianhuiwang,Lianhui Wang,China,China,35.86166,104.195397,,32
+20197098,petermaxlee,petermaxlee,,,,,,32
+4058918,jinxing64,jin xing,"Beijing, China","Beijing, China",39.90419989999999,116.4073963,,34
+1387718,yjshen,Yijie Shen,"Beijing, China","Beijing, China",39.90419989999999,116.4073963,,34
+98311,koeninger,Cody Koeninger,"Austin, TX","Austin, TX, USA",30.267153,-97.7430608,,35
+1168928,xiajunluan,Andrew xia,"Shanghai, China","Shanghai, China",31.2303904,121.4737021,Intel,35
+3230057,tejasapatil,Tejas Patil,"Menlo Park, California","Menlo Park, CA, USA",37.4529598,-122.1817252,Facebook,36
+30604243,jose-torres,Jose Torres,,,,,,37
+228998,andyk,Andy Konwinski,"Berkeley, California","Berkeley, CA, USA",37.8715926,-122.272747,UC Berkeley,37
+2595532,clockfly,Sean Zhong,"Shanghai, China","Shanghai, China",31.2303904,121.4737021,,38
+232889,alig,Ali Ghodsi,,,,,,38
+104618,colorant,Raymond Liu,,,,,,39
+11082368,actuaryzhang,Wayne Zhang,,,,,Uber,40
+242468,nongli,Nong Li,,,,,Cerebro Data,40
+62313,jaceklaskowski,Jacek Laskowski,"Warsaw, Poland","Warsaw, Poland",52.2296756,21.0122287,,41
+235188,tedyu,tedyu,,,,,,42
+6198920,tmyklebu,Tor Myklebust,,,,,,43
+512364,falaki,Hossein Falaki,"San Francisco, CA","San Francisco, CA, USA",37.7749295,-122.4194155,Databricks,46
+1378755,techaddict,Sandeep Singh,"Bangalore, India","Bengaluru, Karnataka, India",12.9715987,77.5945627,Amazon,46
+2528327,sun-rui,sun-rui,,,,,,47
+164491,zjffdu,Jeff Zhang,"Shanghai, China","Shanghai, China",31.2303904,121.4737021,Hortonworks,48
+7275795,sethah,Seth Hendrickson,"San Francisco, CA","San Francisco, CA, USA",37.7749295,-122.4194155,Cloudera,48
+24747,ijuma,Ismael Juma,"San Francisco, CA","San Francisco, CA, USA",37.7749295,-122.4194155,Confluent,48
+1097932,gengliangwang,Gengliang Wang,,,,,,49
+232966,mosharaf,Mosharaf Chowdhury,University of Michigan,"Ann Arbor, MI, USA",42.2780436,-83.7382241,University of Michigan,50
+4563792,tgravescs,Tom Graves,,,,,Oath,51
+14225158,dilipbiswal,Dilip Biswal,"San Jose, CA","San Jose, CA, USA",37.3382082,-121.8863286,IBM,52
+1554276,zero323,Maciej,,,,,,52
+3220351,rezazadeh,Reza Zadeh,"Palo Alto, CA","Palo Alto, CA, USA",37.4418834,-122.1430195,Stanford University,52
+71240,squito,Imran Rashid,,,,,,53
+357170,ash211,Andrew Ash,"Palo Alto, CA","Palo Alto, CA, USA",37.4418834,-122.1430195,,54
+5276001,WangTaoTheTonic,Tao Wang,"Hangzhou, China","Hangzhou, Zhejiang, China",30.274084,120.15507,Huawei Technologies,54
+15843379,lw-lin,Liwei Lin,"Beijing, China","Beijing, China",39.90419989999999,116.4073963,Tencent,56
+1039369,nchammas,Nicholas Chammas,New England,"New England, USA",43.9653889,-70.8226541,,59
+1134574,dbtsai,DB Tsai,Cupertino,"Cupertino, CA, USA",37.3229978,-122.0321823,Apple,60
+1523515,yu-iskw,Yu Ishikawa,"San Francisco, CA","San Francisco, CA, USA",37.7749295,-122.4194155,,60
+5033592,wangmiao1981,Miao Wang,"San Francisco, CA","San Francisco, CA, USA",37.7749295,-122.4194155,Alibaba Inc,62
+1591700,mridulm,Mridul Muralidharan,"San Francisco, CA","San Francisco, CA, USA",37.7749295,-122.4194155,Hortonworks,63
+1867024,MechCoder,MechCoder,"Mountain View, CA","Mountain View, CA, USA",37.3860517,-122.0838511,Google,63
+1036807,MLnick,Nick Pentreath,"Cape Town, South Africa","Cape Town, South Africa",-33.9248685,18.4240553,IBM,64
+10878553,wzhfy,Zhenhua Wang,"Hangzhou, China","Hangzhou, Zhejiang, China",30.274084,120.15507,Huawei Technologies,64
+2637239,yinxusen,yinxusen,"Los Angeles, California","Los Angeles, CA, USA",34.0522342,-118.2436849,,65
+166454,sameeragarwal,Sameer Agarwal,"Berkeley, California","Berkeley, CA, USA",37.8715926,-122.272747,Facebook,67
+678008,CodingCat,Nan Zhu,Seattle,"Seattle, WA, USA",47.6062095,-122.3320708,Uber,68
+424186,markhamstra,Mark Hamstra,"San Francisco, CA","San Francisco, CA, USA",37.7749295,-122.4194155,,68
+15294,jey,Jey Kottalam,"Berkeley, California","Berkeley, CA, USA",37.8715926,-122.272747,UC Berkeley,69
+344906,woggle,Charles Reiss,Virginia,"Virginia, USA",37.4315734,-78.6568942,,71
+403133,dennybritz,Denny Britz,"Mountain View, CA","Mountain View, CA, USA",37.3860517,-122.0838511,Google,71
+4784782,jiangxb1987,Jiang Xingbo,"Xiamen, Fujian, PR. China","Xiamen, Fujian, China",24.479833,118.089425,Databricks,72
+302879,witgo,Guoqiang Li,"Hangzhou, China","Hangzhou, Zhejiang, China",30.274084,120.15507,Huawei Technologies,75
+4754931,karenfeng,Karen Feng,,,,,,77
+5399861,wangyum,Yuming Wang,"Shanghai, China","Shanghai, China",31.2303904,121.4737021,eBay,80
+40902,davies,Davies Liu,"San Francisco, CA","San Francisco, CA, USA",37.7749295,-122.4194155,juicedata,80
+14922,ericl,Eric Liang,,,,,,83
+7981698,hhbyyh,Yuhao Yang,"Sunnyvale, CA, U.S.","Sunnyvale, CA, USA",37.36883,-122.0363496,,85
+19235986,WeichenXu123,WeichenXu,"San Francisco, CA","San Francisco, CA, USA",37.7749295,-122.4194155,Databricks,86
+4534389,BryanCutler,Bryan Cutler,"San Francisco, CA","San Francisco, CA, USA",37.7749295,-122.4194155,IBM,87
+7018048,scwf,Fei Wang,"Hangzhou, China","Hangzhou, Zhejiang, China",30.274084,120.15507,Huawei Technologies,92
+654855,sryza,Sandy Ryza,"San Francisco, CA","San Francisco, CA, USA",37.7749295,-122.4194155,Remix,92
+8821783,mgaido91,Marco Gaido,,,,,,94
+3078910,adrian-wang,Daoyuan Wang,"Shanghai, China","Shanghai, China",31.2303904,121.4737021,Alibaba Inc,94
+6401,stephenh,Stephen Haberman,,,,,,99
+1315079,kiszk,Kazuaki Ishizaki,"Tokyo, Japan","Tokyo, Japan",35.6894875,139.6917064,IBM,102
+7322292,zhengruifeng,Ruifeng Zheng,"Beijing, China","Beijing, China",39.90419989999999,116.4073963,,103
+5243515,brkyvz,Burak Yavuz,,,,,,111
+1108612,kayousterhout,Kay Ousterhout,,,,,,117
+2367031,chenghao-intel,Cheng Hao,"Shanghai, China","Shanghai, China",31.2303904,121.4737021,Intel,118
+9616802,hvanhovell,Herman van Hovell,Netherlands,Netherlands,52.132633,5.291265999999999,Databricks,125
+692303,maropu,Takeshi Yamamuro,"Tokyo, Japan","Tokyo, Japan",35.6894875,139.6917064,,127
+2133137,andrewor14,andrewor14,,,,,,131
+506656,ueshin,Takuya UESHIN,"Kawasaki, Japan","Kawasaki, Kanagawa Prefecture, Japan",35.52981980000001,139.7024039,,135
+4736016,sarutak,Kousuke Saruta,Japan,Japan,36.204824,138.252924,NTT DATA,143
+59893,holdenk,Holden Karau,"San Francisco, CA","San Francisco, CA, USA",37.7749295,-122.4194155,Google,151
+2350086,jegonzal,Joey,"Berkeley, California","Berkeley, CA, USA",37.8715926,-122.272747,UC Berkeley,158
+8969467,felixcheung,Felix Cheung,,,,,,161
+1400247,aarondav,Aaron Davidson,,,,,,161
+5084283,jkbradley,Joseph Bradley,,,,,,169
+992952,ScrapCodes,Prashant Sharma,Hyderabad,"Hyderabad, Telangana, India",17.385044,78.486671,IBM,177
+143893,shivaram,Shivaram Venkataraman,,,,,,192
+850797,jerryshao,Saisai Shao,"Shanghai, China","Shanghai, China",31.2303904,121.4737021,Hortonworks,194
+408432,ankurdave,Ankur Dave,"Berkeley, California","Berkeley, CA, USA",37.8715926,-122.272747,UC Berkeley,241
+2072857,yhuai,Yin Huai,,,,,Databricks,258
+527,marmbrus,Michael Armbrust,"Berkeley, California","Berkeley, CA, USA",37.8715926,-122.272747,UC Berkeley,280
+1962026,yanboliang,Yanbo Liang,"Santa Clara, CA","Santa Clara, CA, USA",37.3541079,-121.9552356,Hortonworks,289
+9700541,dongjoon-hyun,Dongjoon Hyun,"Sunnyvale, CA, U.S.","Sunnyvale, CA, USA",37.36883,-122.0363496,Hortonworks,299
+829644,mengxr,Xiangrui Meng,,,,,Databricks,329
+1694083,vanzin,Marcelo Vanzin,"San Francisco, CA","San Francisco, CA, USA",37.7749295,-122.4194155,,332
+68855,viirya,Liang-Chi Hsieh,"Taipei, Taiwan","Taipei, Taiwan",25.0329694,121.5654177,Datavisor,347
+6477701,HyukjinKwon,Hyukjin Kwon,,,,,Hortonworks,352
+11567269,gatorsmile,Xiao Li,"San Francisco, CA","San Francisco, CA, USA",37.7749295,-122.4194155,Databricks,372
+230655,liancheng,Cheng Lian,"San Francisco, CA","San Francisco, CA, USA",37.7749295,-122.4194155,Databricks,375
+663212,tdas,Tathagata Das,"San Francisco, CA","San Francisco, CA, USA",37.7749295,-122.4194155,Databricks,473
+1000778,zsxwing,Shixiong Zhu,"San Francisco, CA","San Francisco, CA, USA",37.7749295,-122.4194155,Databricks,474
+50748,JoshRosen,Josh Rosen,"Berkeley, California","Berkeley, CA, USA",37.8715926,-122.272747,Databricks,502
+3182036,cloud-fan,Wenchen Fan,"Hangzhou, China","Hangzhou, Zhejiang, China",30.274084,120.15507,Databricks,576
+320616,pwendell,Patrick Wendell,,,,,,654
+228859,mateiz,Matei Zaharia,"San Francisco, CA","San Francisco, CA, USA",37.7749295,-122.4194155,Databricks,830
+323388,rxin,Reynold Xin,"San Francisco, CA","San Francisco, CA, USA",37.7749295,-122.4194155,Databricks,1152
